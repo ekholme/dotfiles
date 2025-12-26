@@ -57,7 +57,8 @@
     "on-click": "omarchy-launch-or-focus-tui btop"
   },
   "memory": {
-      "format": "{}%  "
+    "format": "{}%  ",
+    "on-click": "omarchy-launch-or-focus-tui btop"
     },
   "clock": {
     "format": "{:L%A %I:%M %p}",
